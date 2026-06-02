@@ -33,7 +33,7 @@
     name="twitter:card"
     content="summary"
   />
-  <title>Watamu Hackathon</title>
+  <title>2022 Watamu Hackathon</title>
   <link
     rel="icon"
     href={favicon}
