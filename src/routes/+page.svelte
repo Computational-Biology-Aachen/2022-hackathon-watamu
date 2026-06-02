@@ -11,6 +11,10 @@
   } from "@computational-biology-aachen/design";
 </script>
 
+<svelte:head>
+  <title>2022 Watamu Hackathon</title>
+</svelte:head>
+
 <SectionMain
   align="start"
   width="90ch"
