@@ -9,6 +9,7 @@
 
 <!-- SEO -->
 <svelte:head>
+  <title>2022 Watamu Hackathon</title>
   <meta
     name="description"
     content={config.description}
