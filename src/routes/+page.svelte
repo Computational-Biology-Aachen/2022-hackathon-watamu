@@ -4,7 +4,6 @@
   import {
     Figure,
     H1,
-    Imprint,
     Link,
     SectionMain,
     Text,
@@ -49,7 +48,3 @@
     >.</Text
   >
 </SectionMain>
-
-<Imprint
-  github="https://github.com/Computational-Biology-Aachen/2022-hackathon-watamu"
-/>
