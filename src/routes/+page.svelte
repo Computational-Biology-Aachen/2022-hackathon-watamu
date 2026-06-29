@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import banner from "$lib/assets/banner.jpeg";
   import group from "$lib/assets/group.jpg";
   import {
