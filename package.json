@@ -31,15 +31,15 @@
     "svelte": ">=5.57.0",
     "svelte-check": ">=4.7.4",
     "typescript": ">=6.0.3",
-    "typescript-eslint": ">=8.69.0",
-    "vite": ">=8.2.2"
+    "typescript-eslint": ">=8.70.0",
+    "vite": ">=8.3.0"
   },
   "dependencies": {
     "@computational-biology-aachen/design": "github:Computational-Biology-Aachen/design",
     "@fortawesome/free-brands-svg-icons": ">=7.2.0",
     "@fortawesome/free-solid-svg-icons": ">=7.2.0",
     "@sveltejs/adapter-static": ">=3.0.10",
-    "katex": "^0.18.6",
+    "katex": "^0.18.7",
     "shiki": ">=4.4.1",
     "svelte-fa": ">=4.0.4",
     "svelte-media-queries": ">=1.6.2"
