@@ -1,6 +1,6 @@
 <script lang="ts">
-  import banner from "$lib/assets/banner.jpeg";
-  import group from "$lib/assets/group.jpg";
+  import banner from "#lib/assets/banner.jpeg";
+  import group from "#lib/assets/group.jpg";
   import {
     Figure,
     H1,
